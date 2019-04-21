@@ -1,0 +1,19 @@
+{
+    "notemaker": {
+        "awscloudformation": {
+            "AuthRoleName": "project1-20190420114743-authRole",
+            "UnauthRoleArn": "arn:aws:iam::023158065445:role/project1-20190420114743-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::023158065445:role/project1-20190420114743-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "project1-20190420114743-deployment",
+            "UnauthRoleName": "project1-20190420114743-unauthRole",
+            "StackName": "project1-20190420114743",
+            "StackId": "arn:aws:cloudformation:us-east-1:023158065445:stack/project1-20190420114743/7c09f7e0-6312-11e9-8bb4-0a52d71b881a"
+        },
+        "categories": {
+            "auth": {
+                "cognitoc61a0b99": {}
+            }
+        }
+    }
+}
