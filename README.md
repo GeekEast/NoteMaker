@@ -54,7 +54,7 @@ amplify init
 ```sh
 amplify add api
 # Edit the GraphQL Schema
-amplify push
+amplify push # this will deploy backend resources in the cloud
 # query code generated in src/graphql folder
 amplify console -> api # get in AppSync to inspect your porject
 ```
