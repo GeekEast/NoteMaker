@@ -187,7 +187,7 @@ amplify publish # must be publish
 ```
 
 ## 7. Summary
-### 1. Point
+### 1. Insight
 - Click on **Button** will trigger **onSubmit** of the outside **From**.
 - The location of `preventDefault()` doesn't matter.
 
